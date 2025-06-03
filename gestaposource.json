@@ -1,0 +1,86 @@
+{
+  "name": "Gestapo's Source",
+  "author": "Gestapo",
+  "website": "",
+  "donate": "",
+  "games": [
+    {
+      "id": "chillas-art-shinkansen-0",
+      "title": "[Chilla's Art] Shinkansen 0",
+      "type": "Game",
+      "description": "A Japanese horror game where players identify anomalies aboard a bullet train.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/l373Q/Chillas.Art.Shinkansen.0-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-kidnap",
+      "title": "[Chilla's Art] The Kidnap",
+      "type": "Game",
+      "description": "A tense horror experience centered around a kidnapping case.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/2F3oz/Chillas.Art.The.Kidnap-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-parasocial",
+      "title": "[Chilla's Art] Parasocial",
+      "type": "Game",
+      "description": "Explore themes of obsession and danger in the streaming world.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/2CRB2/Chillas.Art.Parasocial-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-night-security",
+      "title": "[Chilla's Art] Night Security",
+      "type": "Game",
+      "description": "Take on the role of a security guard facing supernatural horrors overnight.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1f1xp/Chillas.Art.Night.Security-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-karaoke",
+      "title": "[Chilla's Art] The Karaoke",
+      "type": "Game",
+      "description": "A chilling night out at a karaoke bar takes a terrifying turn.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/2xYcf/The.Karaoke-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-bathhouse",
+      "title": "[Chilla's Art] The Bathhouse",
+      "type": "Game",
+      "description": "Uncover eerie secrets hidden in an old Japanese bathhouse.",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1Oyrt/The.Bathhouse.rar"
+        }
+      ]
+    }
+  ]
+}
