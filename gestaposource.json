@@ -1,14 +1,12 @@
 {
   "name": "Gestapo's Source",
   "author": "Gestapo",
-  "website": "",
-  "donate": "",
   "games": [
     {
-      "id": "chillas-art-shinkansen-0",
-      "title": "[Chilla's Art] Shinkansen 0",
+      "id": "chillas-art-shinkansen",
+      "title": "[Chilla's Art] Shinkansen",
       "type": "Game",
-      "description": "A Japanese horror game where players identify anomalies aboard a bullet train.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
@@ -21,7 +19,7 @@
       "id": "chillas-art-the-kidnap",
       "title": "[Chilla's Art] The Kidnap",
       "type": "Game",
-      "description": "A tense horror experience centered around a kidnapping case.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
@@ -34,7 +32,7 @@
       "id": "chillas-art-parasocial",
       "title": "[Chilla's Art] Parasocial",
       "type": "Game",
-      "description": "Explore themes of obsession and danger in the streaming world.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
@@ -45,9 +43,9 @@
     },
     {
       "id": "chillas-art-night-security",
-      "title": "[Chilla's Art] Night Security",
+      "title": "[Chilla's Art] Night Securitz",
       "type": "Game",
-      "description": "Take on the role of a security guard facing supernatural horrors overnight.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
@@ -60,7 +58,7 @@
       "id": "chillas-art-the-karaoke",
       "title": "[Chilla's Art] The Karaoke",
       "type": "Game",
-      "description": "A chilling night out at a karaoke bar takes a terrifying turn.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
@@ -73,12 +71,233 @@
       "id": "chillas-art-the-bathhouse",
       "title": "[Chilla's Art] The Bathhouse",
       "type": "Game",
-      "description": "Uncover eerie secrets hidden in an old Japanese bathhouse.",
+      "description": "",
       "languages": ["English"],
       "links": [
         {
           "name": "Download",
           "url": "https://megaup.net/1Oyrt/The.Bathhouse.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-missing-children",
+      "title": "[Chilla's Art] Missing Children",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Magnet",
+          "url": "magnet:?xt=urn:btih:XYBYRKRBVP2HQOWUUS4C44BFWAXPS6ZI&dn=Missing.Children-PLAZA&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-convenience-store",
+      "title": "[Chilla's Art] The Convenience Store",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Magnet",
+          "url": "magnet:?xt=urn:btih:KHS7IKEKWUGDJ35OWX2T7RGIBLCBEZTQ&dn=The-Convenience-Store-v1.00-setup.exe&xl=1253489974&tr=http%3A%2F%2Ftorrentsmd.eu%3A8080%2Fannounce"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-cursed-digicam",
+      "title": "[Chilla's Art] Cursed Digicam",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Magnet",
+          "url": "magnet:?xt=urn:btih:3Q2IW4XDW5Y73FHTQS53ELST6NCVT4C2&dn=Cursed_Digicam_Build_16973026&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-jisatsu",
+      "title": "[Chilla's Art] Jisatsu",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Magnet",
+          "url": "magnet:?xt=urn:btih:SPCLFJFKBQRWDU5OL7TCMWOXQFGMXHKO&dn=Jisatsu%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-aka-manto",
+      "title": "[Chilla's Art] Aka Manto",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/Ms0h/Aka.Manto-DARKSiDERS.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-closing-shift",
+      "title": "[Chilla's Art] The Closing Shift",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1Li8t/The.Closing.Shift.Build.8439100.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-caregiver",
+      "title": "[Chilla's Art] The Caregiver",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1Cik6/The.Caregiver-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-ghost-train",
+      "title": "[Chilla's Art] The Ghost Train",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/S0ma/The.Ghost.Train-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-night-security-2",
+      "title": "[Chilla's Art] Night Security",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1f1xp/Chillas.Art.Night.Security-TENOKE.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-radio-station",
+      "title": "[Chilla's Art] The Radio Station",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1FQbu/The.Radio.Station-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-yuki-onna",
+      "title": "[Chilla's Art] Yuki Onna",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1u4hl/Yuki.Onna-DARKSiDERS.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-the-night-way-home",
+      "title": "[Chilla's Art] The Night Way Home",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/Yffc/The.Night.Way.Home-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-night-delivery",
+      "title": "[Chilla's Art] Night Delivery",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/Xh8l/Night.Delivery-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-okaeri",
+      "title": "[Chilla's Art] Okaeri",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/1s9bz/Okaeri-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-inunaki-tunnel",
+      "title": "[Chilla's Art] Inunaki Tunnel",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/29cgw/Inunaki.Tunnel-DARKSiDERS.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-onryo",
+      "title": "[Chilla's Art] Onryo",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/2cimi/Onryo-PLAZA.rar"
+        }
+      ]
+    },
+    {
+      "id": "chillas-art-stigmatized-property",
+      "title": "[Chilla's Art] Stigmatized Property",
+      "type": "Game",
+      "description": "",
+      "languages": ["English"],
+      "links": [
+        {
+          "name": "Download",
+          "url": "https://megaup.net/4QDse/Stigmatized.Property-PLAZA.rar"
         }
       ]
     }
