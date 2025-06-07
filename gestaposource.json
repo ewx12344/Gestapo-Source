@@ -1,305 +1,137 @@
 {
   "name": "Gestapo's Source",
-  "author": "Gestapo",
-  "games": [
+  "downloads": [
     {
-      "id": "chillas-art-shinkansen",
       "title": "[Chilla's Art] Shinkansen",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/l373Q/Chillas.Art.Shinkansen.0-TENOKE.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/l373Q/Chillas.Art.Shinkansen.0-TENOKE.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.2 GB"
     },
     {
-      "id": "chillas-art-the-kidnap",
       "title": "[Chilla's Art] The Kidnap",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/2F3oz/Chillas.Art.The.Kidnap-TENOKE.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/2F3oz/Chillas.Art.The.Kidnap-TENOKE.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.1 GB"
     },
     {
-      "id": "chillas-art-parasocial",
       "title": "[Chilla's Art] Parasocial",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/2CRB2/Chillas.Art.Parasocial-TENOKE.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/2CRB2/Chillas.Art.Parasocial-TENOKE.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.3 GB"
     },
     {
-      "id": "chillas-art-night-security",
-      "title": "[Chilla's Art] Night Securitz",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1f1xp/Chillas.Art.Night.Security-TENOKE.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-karaoke",
-      "title": "[Chilla's Art] The Karaoke",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/2xYcf/The.Karaoke-TENOKE.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-bathhouse",
-      "title": "[Chilla's Art] The Bathhouse",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1Oyrt/The.Bathhouse.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-missing-children",
-      "title": "[Chilla's Art] Missing Children",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Magnet",
-          "url": "magnet:?xt=urn:btih:XYBYRKRBVP2HQOWUUS4C44BFWAXPS6ZI&dn=Missing.Children-PLAZA&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-convenience-store",
-      "title": "[Chilla's Art] The Convenience Store",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Magnet",
-          "url": "magnet:?xt=urn:btih:KHS7IKEKWUGDJ35OWX2T7RGIBLCBEZTQ&dn=The-Convenience-Store-v1.00-setup.exe&xl=1253489974&tr=http%3A%2F%2Ftorrentsmd.eu%3A8080%2Fannounce"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-cursed-digicam",
-      "title": "[Chilla's Art] Cursed Digicam",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Magnet",
-          "url": "magnet:?xt=urn:btih:3Q2IW4XDW5Y73FHTQS53ELST6NCVT4C2&dn=Cursed_Digicam_Build_16973026&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-jisatsu",
-      "title": "[Chilla's Art] Jisatsu",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Magnet",
-          "url": "magnet:?xt=urn:btih:SPCLFJFKBQRWDU5OL7TCMWOXQFGMXHKO&dn=Jisatsu%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-aka-manto",
-      "title": "[Chilla's Art] Aka Manto",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/Ms0h/Aka.Manto-DARKSiDERS.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-closing-shift",
-      "title": "[Chilla's Art] The Closing Shift",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1Li8t/The.Closing.Shift.Build.8439100.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-caregiver",
-      "title": "[Chilla's Art] The Caregiver",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1Cik6/The.Caregiver-PLAZA.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-the-ghost-train",
-      "title": "[Chilla's Art] The Ghost Train",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/S0ma/The.Ghost.Train-PLAZA.rar"
-        }
-      ]
-    },
-    {
-      "id": "chillas-art-night-security-2",
       "title": "[Chilla's Art] Night Security",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1f1xp/Chillas.Art.Night.Security-TENOKE.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/1f1xp/Chillas.Art.Night.Security-TENOKE.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.0 GB"
     },
     {
-      "id": "chillas-art-the-radio-station",
+      "title": "[Chilla's Art] The Karaoke",
+      "uris": ["https://megaup.net/2xYcf/The.Karaoke-TENOKE.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.2 GB"
+    },
+    {
+      "title": "[Chilla's Art] The Bathhouse",
+      "uris": ["https://megaup.net/1Oyrt/The.Bathhouse.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.4 GB"
+    },
+    {
+      "title": "[Chilla's Art] Missing Children",
+      "uris": ["magnet:?xt=urn:btih:XYBYRKRBVP2HQOWUUS4C44BFWAXPS6ZI&dn=Missing.Children-PLAZA&tr=http%3A%2F%2Ftracker.tfile.co%3A80%2Fannounce"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "450 MB"
+    },
+    {
+      "title": "[Chilla's Art] The Convenience Store",
+      "uris": ["magnet:?xt=urn:btih:KHS7IKEKWUGDJ35OWX2T7RGIBLCBEZTQ&dn=The-Convenience-Store-v1.00-setup.exe&xl=1253489974&tr=http%3A%2F%2Ftorrentsmd.eu%3A8080%2Fannounce"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.1 GB"
+    },
+    {
+      "title": "[Chilla's Art] Cursed Digicam",
+      "uris": ["magnet:?xt=urn:btih:3Q2IW4XDW5Y73FHTQS53ELST6NCVT4C2&dn=Cursed_Digicam_Build_16973026&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "500 MB"
+    },
+    {
+      "title": "[Chilla's Art] Jisatsu",
+      "uris": ["magnet:?xt=urn:btih:SPCLFJFKBQRWDU5OL7TCMWOXQFGMXHKO&dn=Jisatsu%20%5BDODI%20Repack%5D&tr=udp%3A%2F%2F9.rarbg.to%3A2870%2Fannounce"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "550 MB"
+    },
+    {
+      "title": "[Chilla's Art] Aka Manto",
+      "uris": ["https://megaup.net/Ms0h/Aka.Manto-DARKSiDERS.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.1 GB"
+    },
+    {
+      "title": "[Chilla's Art] The Closing Shift",
+      "uris": ["https://megaup.net/1Li8t/The.Closing.Shift.Build.8439100.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.5 GB"
+    },
+    {
+      "title": "[Chilla's Art] The Caregiver",
+      "uris": ["https://megaup.net/1Cik6/The.Caregiver-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "900 MB"
+    },
+    {
+      "title": "[Chilla's Art] The Ghost Train",
+      "uris": ["https://megaup.net/S0ma/The.Ghost.Train-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.0 GB"
+    },
+    {
       "title": "[Chilla's Art] The Radio Station",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1FQbu/The.Radio.Station-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/1FQbu/The.Radio.Station-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "950 MB"
     },
     {
-      "id": "chillas-art-yuki-onna",
       "title": "[Chilla's Art] Yuki Onna",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1u4hl/Yuki.Onna-DARKSiDERS.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/1u4hl/Yuki.Onna-DARKSiDERS.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "900 MB"
     },
     {
-      "id": "chillas-art-the-night-way-home",
       "title": "[Chilla's Art] The Night Way Home",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/Yffc/The.Night.Way.Home-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/Yffc/The.Night.Way.Home-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.2 GB"
     },
     {
-      "id": "chillas-art-night-delivery",
       "title": "[Chilla's Art] Night Delivery",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/Xh8l/Night.Delivery-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/Xh8l/Night.Delivery-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.0 GB"
     },
     {
-      "id": "chillas-art-okaeri",
       "title": "[Chilla's Art] Okaeri",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/1s9bz/Okaeri-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/1s9bz/Okaeri-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "850 MB"
     },
     {
-      "id": "chillas-art-inunaki-tunnel",
       "title": "[Chilla's Art] Inunaki Tunnel",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/29cgw/Inunaki.Tunnel-DARKSiDERS.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/29cgw/Inunaki.Tunnel-DARKSiDERS.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.1 GB"
     },
     {
-      "id": "chillas-art-onryo",
       "title": "[Chilla's Art] Onryo",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/2cimi/Onryo-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/2cimi/Onryo-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.3 GB"
     },
     {
-      "id": "chillas-art-stigmatized-property",
       "title": "[Chilla's Art] Stigmatized Property",
-      "type": "Game",
-      "description": "",
-      "languages": ["English"],
-      "links": [
-        {
-          "name": "Download",
-          "url": "https://megaup.net/4QDse/Stigmatized.Property-PLAZA.rar"
-        }
-      ]
+      "uris": ["https://megaup.net/4QDse/Stigmatized.Property-PLAZA.rar"],
+      "uploadDate": "2024-09-25T10:00:00.000Z",
+      "fileSize": "1.0 GB"
     }
   ]
 }
